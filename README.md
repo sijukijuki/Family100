@@ -10,5 +10,7 @@ Questions are fetch from "../js/FF3.json" file.
 living demo: http://diyak.net/ff
 
 Open panel.html
+
 > Open Game
+
 > Start Game (music continous for 33 second then game starts)
