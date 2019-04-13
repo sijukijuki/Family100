@@ -9,7 +9,7 @@ Questions are fetch from "../js/FF3.json" file.
 
 living demo: https://cgrgrbz.github.io/familyfeud/
 
-Open panel.html
+Open index.html
 
 > Open Game
 
