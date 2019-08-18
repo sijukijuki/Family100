@@ -13,4 +13,6 @@ Open index.html
 
 > Open Game
 
-> Start Game (music continous for 33 second then game starts)
+> Start Game (music continous for 33 second then game starts) 
+  > time count can be edited in "/panel/js/panel.js" in line 11
+    > https://github.com/cgrgrbz/familyfeud/blob/ece28719d443364e8813c9d4132671df0bfa01ba/panel/js/panel.js#L11
