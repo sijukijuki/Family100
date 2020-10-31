@@ -7,7 +7,7 @@ This game was used for a student organization event in a university. The main in
 Questions are fetch from "../js/FF3.json" file.
 
 
-living demo: https://cgrgrbz.github.io/familyfeud/
+live demo: https://cgrgrbz.github.io/familyfeud/
 
 Open index.html
 
